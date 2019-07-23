@@ -1,6 +1,10 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis luctus est ut luctus. Donec a aliquam orci. Nam iaculis sem vel magna ultrices, et scelerisque lacus ultrices. Nam ullamcorper augue vitae felis volutpat consequat. Aenean consequat orci sit amet scelerisque dapibus. Nullam nec mauris quis arcu ornare lobortis. Pellentesque.
 
 
+
 Zmiana 0.1 ---------
 
 Zmiana 0.2 Hello world
+
+Dodatkowy tekst 2
+
