@@ -2,3 +2,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis luctus e
 
 
 Zmiana 0.1 ---------
+
+Zmiana 0.2 Hello world
