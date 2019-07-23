@@ -1,1 +1,3 @@
 Kod związany z backendem
+
+Jakis kawalek kodu
